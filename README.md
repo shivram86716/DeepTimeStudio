@@ -74,6 +74,7 @@ DeepTime Studio
 ## 🧱 System flow Diagram
 
 
+```text
 [1] User uploads CSV
         |
         v
@@ -121,3 +122,4 @@ DeepTime Studio
         v
 [9] Streamlit UI
     - User reads charts + explanations
+```
