@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+torch
+scikit-learn
+groq
+python-dateutil
